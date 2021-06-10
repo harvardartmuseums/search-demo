@@ -1,0 +1,3 @@
+[submodule "resources/js/Components/search"]
+	path = resources/js/Components/search
+	url = https://github.com/harvardartmuseums/search-components.git
