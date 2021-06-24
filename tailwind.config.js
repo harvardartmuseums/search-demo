@@ -11,11 +11,15 @@ module.exports = {
 
     theme: {
         extend: {
+            boxShadow: {
+                'inner-dark': 'inset 0 2px 4px 0 rgba(0, 0, 0, 0.7)'
+              },
           fontFamily: {
             'neutral': '"Neutral Regular 3"',
             'neutral-med':'"Neutral Medium 3"', 
             'neutral-bold': '"Neutral Bold 3"',
           },
+
         },
     },
 
